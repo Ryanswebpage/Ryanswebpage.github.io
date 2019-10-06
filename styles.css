@@ -11,7 +11,7 @@
 }
 
 img {
-  background-image: src="images/ryanmarg.png">
+  background-image: <img src="Pictures/ryanmarg.png">
   display: block;
   margin-left: auto;
   margin-right: auto;
